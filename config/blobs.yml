@@ -1,5 +1,5 @@
 ---
-ruby-buildpack/ruby_buildpack-v1.7.7-5479a24.zip:
-  object_id: ruby_buildpack-v1.7.7-5479a24.zip
-  sha: 5479a24691ba5a2baf438df6626fb3754aa8e7f8
-  size: 3710245
+ruby-buildpack/ruby_buildpack-v1.7.7-4f97365.zip:
+  object_id: ruby_buildpack-v1.7.7-4f97365.zip
+  sha: 4f973657bc8d9ed0f4caaaead9c2af3045c30b3b
+  size: 3710280
