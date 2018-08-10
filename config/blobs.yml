@@ -1,5 +1,5 @@
 ---
-ruby-buildpack/ruby_buildpack-v1.7.21.1-82e2fc52.zip:
-  object_id: ruby_buildpack-v1.7.21.1-82e2fc52.zip
-  sha: 82e2fc52908d27201e80fd086c698d99c16a72fe
-  size: 3938627
+ruby-buildpack/ruby_buildpack-v1.7.21.1-6e90ae4a.zip:
+  object_id: ruby_buildpack-v1.7.21.1-6e90ae4a.zip
+  sha: 6e90ae4a5627906e3ad026889973766948468967
+  size: 3938634
