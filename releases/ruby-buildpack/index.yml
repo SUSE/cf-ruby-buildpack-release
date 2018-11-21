@@ -5,6 +5,8 @@ builds:
     version: 1.7.23.1
   4c10a972-b791-47ba-40ff-bbafcb9c8075:
     version: 1.7.26.1
+  a1f39b3c-9952-41cd-64bf-286b197e23f5:
+    version: 1.7.27.1
   f974760b-3ff2-415d-4318-57b9536fe714:
     version: 1.7.25.1
 format-version: "2"
