@@ -13,6 +13,8 @@ builds:
     version: 1.7.27.1
   af3dc968-4618-4eeb-7f0e-a1db299a3200:
     version: 1.7.30.1
+  c5f7834e-c5fd-48f9-596f-77036d213982:
+    version: 1.7.31.1
   f974760b-3ff2-415d-4318-57b9536fe714:
     version: 1.7.25.1
 format-version: "2"
