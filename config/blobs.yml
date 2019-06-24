@@ -1,5 +1,5 @@
 ---
-ruby-buildpack/ruby-buildpack-v1.7.40.1-1.1-32939548.zip:
-  size: 4788928
-  object_id: ruby-buildpack-v1.7.40.1-1.1-32939548.zip
-  sha: 32939548cca6544f583b68053e2889cc8ec1e700
+ruby-buildpack/ruby-buildpack-v1.7.41.1-1.1-c4cd5fed.zip:
+  size: 4788020
+  object_id: ruby-buildpack-v1.7.41.1-1.1-c4cd5fed.zip
+  sha: c4cd5fedc8aa3ae3e83ae7de59f1c19116aa0c45
