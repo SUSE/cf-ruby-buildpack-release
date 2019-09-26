@@ -1,0 +1,2 @@
+    set -e -x
+    cp ruby-buildpack/ruby-buildpack-sle15-*.zip ${BOSH_INSTALL_TARGET}

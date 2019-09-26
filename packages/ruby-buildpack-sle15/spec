@@ -1,0 +1,4 @@
+---
+name: ruby-buildpack-sle15
+files:
+- ruby-buildpack/ruby-buildpack-sle15-*.zip
