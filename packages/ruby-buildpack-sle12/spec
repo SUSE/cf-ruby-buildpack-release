@@ -1,4 +1,0 @@
----
-name: ruby-buildpack-sle12
-files:
-- ruby-buildpack/ruby-buildpack-sle12-*.zip
