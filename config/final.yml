@@ -1,5 +1,5 @@
 ---
-final_name: ruby-buildpack
+final_name: suse-ruby-buildpack
 blobstore:
   provider: s3
   options:
