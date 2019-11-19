@@ -1,0 +1,21 @@
+name: suse-ruby-buildpack
+version: 1.8.1.2
+commit_hash: 22b845c
+uncommitted_changes: false
+jobs:
+- name: suse-ruby-buildpack
+  version: d581eccb27b5671968a14330851bccc97e6d336bcf406b5ee86904596c11a033
+  fingerprint: d581eccb27b5671968a14330851bccc97e6d336bcf406b5ee86904596c11a033
+  sha1: sha256:e682327aae2508284f64eeb14a5fc91a09dbb7906cfba7b875543e73575ba0d2
+  packages:
+  - ruby-buildpack-sle15
+packages:
+- name: ruby-buildpack-sle15
+  version: 0d9fadde66adbd151e7ac89e3921f769bb9c0501f26e4801e42c897c51942de9
+  fingerprint: 0d9fadde66adbd151e7ac89e3921f769bb9c0501f26e4801e42c897c51942de9
+  sha1: sha256:9dcaa2f6e1340cce2db6620148a0073c9800f565b73f58b6d8b34b5cc5a3628c
+  dependencies: []
+license:
+  version: 01940e99a104ead4cef1a1b335a160adc5c1d52f4c4d4ac4f4b507cb146fe3bb
+  fingerprint: 01940e99a104ead4cef1a1b335a160adc5c1d52f4c4d4ac4f4b507cb146fe3bb
+  sha1: sha256:c7596253a7fd093d365bbaa3a8f4aae1c964595fd64b5f91df48d4c2897545f9

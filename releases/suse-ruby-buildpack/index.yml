@@ -3,4 +3,6 @@ builds:
     version: 1.8.0.1
   c624959a-f3b9-4158-4132-d0079dc522d0:
     version: 1.8.1.1
+  d1f39803-b3ea-48d8-437b-ac978e3532cf:
+    version: 1.8.1.2
 format-version: "2"
