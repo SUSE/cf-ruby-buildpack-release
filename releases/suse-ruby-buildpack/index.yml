@@ -13,4 +13,6 @@ builds:
     version: 1.8.1.1
   d1f39803-b3ea-48d8-437b-ac978e3532cf:
     version: 1.8.1.2
+  d4e315cc-c691-434e-6bad-208359d9eb3c:
+    version: 1.8.21.1
 format-version: "2"
