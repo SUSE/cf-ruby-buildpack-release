@@ -1,5 +1,5 @@
 ---
-ruby-buildpack/ruby-buildpack-sle15-v1.8.21.1-1.1-eb7b3b65.zip:
-  size: 4791104
-  object_id: ruby-buildpack-sle15-v1.8.21.1-1.1-eb7b3b65.zip
-  sha: sha256:eb7b3b656dd0a721c9b85f1d20ef6c5c1ac32a2ea004c4f4947f50b14b47b5c2
+ruby-buildpack/ruby-buildpack-sle15-v1.8.22.1-1.1-1f05c374.zip:
+  size: 4791122
+  object_id: ruby-buildpack-sle15-v1.8.22.1-1.1-1f05c374.zip
+  sha: sha256:1f05c3745c26ec83504cf1eb84520207a87cf994b8f0d8a915a2a30edd1ca0ef
